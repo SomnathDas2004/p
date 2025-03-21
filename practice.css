@@ -1,0 +1,11 @@
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: 30;
+    border: 10px solid;
+    margin-top: 5%;
+    height: 50%;
+    width: 70%;
+    margin-left: 5%;
+    position: relative;
+}
